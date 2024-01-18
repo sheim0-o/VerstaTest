@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "V8hZl9LWz0bkYwl4WeW8sVQ2nofXF7L0xA8D+bXPGJo=",
+  "Source": "DeliveryOrders.Server",
+  "BasePath": "_content/DeliveryOrders.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Shein\\Desktop\\DeliveryOrders\\deliveryorders.client\\deliveryorders.client.esproj",
+      "Version": 2,
+      "Source": "deliveryorders.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
